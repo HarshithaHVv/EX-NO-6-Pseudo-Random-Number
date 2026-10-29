@@ -11,6 +11,8 @@ Pass the value for number of iterations and print the numbers.
 End the program.
 
 # PROGRAM:
+```
+
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <time.h> 
@@ -27,8 +29,12 @@ printf("%d ", randomNumber);
 printf("\n"); 
 return 0; 
 } 
+```
+
 # OUTPUT:
-<img width="1917" height="810" alt="Screenshot 2026-10-29 085007" src="https://github.com/user-attachments/assets/65b1397a-b358-4eac-95de-b96567deeb24" />
+
+<img width="1917" height="827" alt="Screenshot 2026-10-29 085700" src="https://github.com/user-attachments/assets/62eefe8a-82d4-416e-b02c-0a4f047fbdf0" />
+
 
 # RESULT:
 
